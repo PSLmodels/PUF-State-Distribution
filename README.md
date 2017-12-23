@@ -4,7 +4,7 @@ The goal of this project is to create a public-use file (PUF) with income-tax mi
 
 We anticipate starting with a national PUF for a recent year that has NO state codes on it, and using it as the basis for each state. (My/our understanding of the latest PUFs is that they do not have any state codes on them.) 
 
-Thus, if the national file has 150k records, then each state might, initially, have 150k records, but with different, adjusted, weights. Our goal is to develop a rational method for adjusting weights to hit the targets for a given state. If some of the weights end up to be zero for a given state, the records could be dropped.
+Thus, if the national file has 150k records, then each state might, initially, have 150k records, but with different, adjusted, weights. Our goal is to develop a good and acceptable method for adjusting weights to hit the targets for a given state. If some of the weights end up to be zero for a given state, the records could be dropped.
 
 See https://github.com/open-source-economics/taxdata/issues/138 for an initial discussion.
 
